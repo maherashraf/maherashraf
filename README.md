@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Abdel badea</h1>
+<h1 align="center">Hi 👋, I'm maher ashraf </h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" width="400px" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
